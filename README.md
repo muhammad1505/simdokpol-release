@@ -264,8 +264,10 @@ DB_DSN=simdokpol.db?_foreign_keys=on
 
 ### Rencana Selanjutnya
 
--   🔄 Server Lisensi Online: Validasi lisensi terpusat untuk keamanan lebih tinggi.
--   🔄 Template Editor (Drag & Drop): Memungkinkan Admin mengubah layout cetak PDF secara visual.
+-   [] Server Lisensi Online: Validasi lisensi terpusat untuk keamanan lebih tinggi.
+-   [] Template Editor (Drag & Drop): Memungkinkan Admin mengubah layout cetak PDF secara visual.
+-   [] Migrasi Data Antar DB: Alat untuk memindahkan data dari SQLite ke MySQL/Postgres secara otomatis.
+-   [] Notifikasi Email: Mengirim notifikasi surat kadaluwarsa via email.
 
 ---
 
