@@ -1,0 +1,7 @@
+c04ce9dd2f9e253ae142befcee65b60c0af9503669d96d855a5ba85493e635b6  simdokpol-1.0.3-1.x86_64.rpm
+14b765622a74c599078d2cb36cdc0f156c40cc804580b786b6006338bfb3609f  simdokpol-linux-amd64-v1.0.3-portable.tar.gz
+a7b22cee960d89a9e1522e70d6936d00be54c2a607a6ed3ae1c61e7aab1ac385  simdokpol-macos-amd64-v1.0.3-installer.dmg
+4e3bf898e7a2652d40eeea8322c685e3356dae1b08629b0c3644e6cd4340e836  simdokpol-macos-amd64-v1.0.3-portable.zip
+f6fa86fa93d4f00e8168c814272fad1ea51191091fc881588fa5b5bb5c170a80  simdokpol-windows-x64-v1.0.3-installer.exe
+691a639cfcc37c968253c694baa94cdf68c2dbb62ec8dd3da065573ed5872bee  simdokpol-windows-x64-v1.0.3-portable.zip
+110336ba66948c6ff04652368db0c836761f8ba256da9ee9e554025f554f2c0f  simdokpol_1.0.3_amd64.deb
