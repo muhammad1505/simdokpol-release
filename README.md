@@ -9,12 +9,12 @@
   </p>
   <br/>
   <a href="https://github.com/muhammad1505/simdokpol-release/releases">
-    <img src="https://img.shields.io/github/v/release/muhammad1505/simdokpol?color=1a3a5c&label=Latest%20Release&logo=github&style=flat-square" alt="Latest Release" />
+    <img src="https://img.shields.io/github/v/release/muhammad1505/simdokpol-release?color=1a3a5c&label=Latest%20Release&logo=github&style=flat-square" alt="Latest Release" />
   </a>
   <a href="https://github.com/muhammad1505/simdokpol">
     <img src="https://img.shields.io/badge/Source%20Code-0a1628?logo=github&style=flat-square" alt="Source Code" />
   </a>
-  <a href="https://github.com/muhammad1505/simdokpol/releases">
+  <a href="https://github.com/muhammad1505/simdokpol/blob/main/CHANGELOG.md">
     <img src="https://img.shields.io/badge/Changelog-1a3a5c?logo=git&style=flat-square" alt="Changelog" />
   </a>
   <br/><br/>
